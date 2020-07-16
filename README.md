@@ -1,6 +1,6 @@
 # How to make changes to a private portal
 
-## To make changes to AA private portal,
+## To make changes to AA private portal
 
 1.	In a browser, go to folder https://github.ibm.com/IBMCode/Client-Advocacy/tree/master/portals/aa.
 
@@ -53,7 +53,7 @@
 1.	As a standard feature, comments to this PR by other people should come to your email as well.
 
 
-## To post an event in AA private portal,
+## To post an event in AA private portal
 - I. Create a new blog
 - II. Add reference in AA private portal
 
