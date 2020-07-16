@@ -24,9 +24,19 @@
     - Slug has 2 parts, `private_` and the `folder name of your blog`.
     - Make sure the correct slug which is used to point to your blog.
 
+        ```
+        featured:
+        - type: blogs
+        slug: private_aa-test-event
+        - type: blogs
+        slug: private_digdevconreplay
+        - type: blogs
+        slug: explore-kubernetes-with-openshift-workshop
+        ```
+
 1.	Alternatively, if you have an old event post which is out of date, you may choose to update it instead of adding a new event.
 
-1.	After the changes are made, add comments in the `Propose file change` section at the bottom of the screen. Include **“**@Hania-Ibrahim, @jkomg, please review the changes** in your comments. This ensures notification will be sent to @Hania-Ibrahim and @jkomg for timely process.
+1.	After the changes are made, add comments in the `Propose file change` section at the bottom of the sscreen. Include **“**@Hania-Ibrahim, @jkomg, please review the changes** in your comments. This ensures notification will be sent to @Hania-Ibrahim and @jkomg for timely process.
 
 1.	Click `Propose file change` to submit the change.
 
